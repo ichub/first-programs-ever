@@ -1,0 +1,1 @@
+Click Left mouse button to create a point. Select points with right mouse button to create connections. Drag points with middle mouse button to drag points around. Press space to delete all points.
